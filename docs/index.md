@@ -118,6 +118,7 @@ review-insights "business-name" google 88 82 85 78 90 84
 | SlideShare | https://www.slideshare.net/slideshow/boost-your-business-with-getreviews-space-mastering-5-star-review-growth/289290110 |
 | Pinterest | https://www.pinterest.com/getreviewsspace/ |
 | Medium | https://medium.com/@getreviews_space |
+| zenodo | https://zenodo.org/records/21984115 |
 
 ---
 
