@@ -31,7 +31,11 @@
   "relation": "isIdenticalTo",
   "scheme": "url"
 },
-    
+     {
+  "identifier": "https://www.kaggle.com/datasets/getreviewsspace/review-insights-benchmarks",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
     {
       "identifier": "https://getreviews.space",
       "relation": "isDocumentedBy",
