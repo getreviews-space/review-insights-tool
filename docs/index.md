@@ -119,6 +119,8 @@ review-insights "business-name" google 88 82 85 78 90 84
 | Pinterest | https://www.pinterest.com/getreviewsspace/ |
 | Medium | https://medium.com/@getreviews_space |
 | zenodo | https://zenodo.org/records/21984115 |
+| Kaggle | https://www.kaggle.com/datasets/getreviewsspace/review-insights-benchmarks |
+
 
 ---
 
