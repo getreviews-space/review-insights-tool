@@ -1,0 +1,21 @@
+id,business,platform,rating_score,sentiment_score,authenticity_score,volume_score,topic_coverage_score,reputation_trend_score,overall_insights_index,priority_action,google_score,trustpilot_score,yelp_score,app_stores_score,current_rating,review_count,target_rating,reviews_needed,industry,notes
+1,Restaurant Chain,google,88,84,86,80,90,84,85,Volume,88,84,80,84,4.1,240,4.5,62,Food & Beverage,Strong rating with growth potential
+2,E-commerce Store,trustpilot,86,82,84,78,88,82,83,Volume,86,82,78,82,3.9,180,4.3,44,Retail,Trustpilot reputation build
+3,SaaS Platform,g2,90,86,88,82,92,86,87,Volume,90,86,82,86,4.2,320,4.6,72,Software,B2B review growth plan
+4,Hotel Chain,tripadvisor,84,80,82,76,86,80,81,Volume,84,80,76,80,3.8,150,4.2,47,Hospitality,Rating improvement needed
+5,Healthcare Clinic,google,88,84,86,80,90,84,85,Volume,88,84,80,84,4.3,200,4.7,58,Healthcare,Patient review strategy
+6,Law Firm,google,86,82,84,78,88,82,83,Volume,86,82,78,82,4.0,95,4.4,52,Legal,Professional trust building
+7,Mobile App,app-store,90,86,88,84,92,86,88,Volume,90,86,84,86,4.1,580,4.5,90,Technology,App store rating push
+8,Retail Store,google,84,80,82,76,86,80,81,Volume,84,80,76,80,3.7,120,4.1,48,Retail,Local reputation recovery
+9,Fitness Studio,yelp,86,82,84,78,88,82,83,Volume,86,82,78,82,4.2,88,4.6,42,Health & Fitness,Yelp review growth
+10,Financial Advisor,google,88,84,86,80,90,84,85,Volume,88,84,80,84,4.4,65,4.7,28,Finance,High trust rating target
+11,B2B Software,capterra,90,86,88,82,92,86,87,Volume,90,86,82,86,4.0,210,4.4,62,Software,Capterra rating strategy
+12,Beauty Brand,amazon,86,82,84,78,88,82,83,Volume,86,82,78,82,3.9,440,4.3,86,Beauty,Amazon review volume push
+13,Education Platform,trustpilot,88,84,86,80,90,84,85,Volume,88,84,80,84,4.1,175,4.5,54,EdTech,Learning platform trust
+14,Real Estate Agency,google,84,80,82,76,86,80,81,Volume,84,80,76,80,4.2,110,4.6,48,Real Estate,Agent review profile
+15,Tech Startup,producthunt,86,82,84,78,88,82,83,Volume,86,82,78,82,3.8,62,4.2,36,Technology,Early stage review build
+16,Insurance Broker,google,88,84,86,80,90,84,85,Volume,88,84,80,84,4.0,145,4.4,58,Insurance,Trust review strategy
+17,Travel Agency,tripadvisor,90,86,88,82,92,86,87,Volume,90,86,82,86,4.3,290,4.7,66,Travel,Travel review excellence
+18,Dental Practice,google,86,82,84,78,88,82,83,Volume,86,82,78,82,4.1,180,4.5,54,Healthcare,Dental trust profile
+19,Car Dealership,google,84,80,82,76,86,80,81,Volume,84,80,76,80,3.6,320,4.0,84,Automotive,Dealership recovery plan
+20,Digital Agency,clutch,88,84,86,80,90,84,85,Volume,88,84,80,84,4.4,78,4.7,24,Marketing,Agency portfolio trust
