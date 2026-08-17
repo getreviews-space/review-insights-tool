@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "review-insights-tool"
+version = "1.0.0"
+authors = [
+  { name = "GetReviews.Space", email = "info@getreviews.space" },
+]
+description = "Review Insights Tool analyzes online customer reviews and turns unstructured feedback into useful business insights."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "review-insights-tool",
+    "rating-analysis",
+    "review-sentiment",
+    "authenticity-signals",
+    "rating-improvement-calculator",
+    "reputation-trend",
+    "customer-feedback-intelligence",
+    "getreviews-space",
+]
+
+[project.urls]
+Homepage = "https://getreviews.space"
+GitHub = "https://github.com/getreviews-space/review-insights-tool"
+Documentation = "https://review-insights-tool.readthedocs.io"
+PyPI = "https://pypi.org/project/review-insights-tool"
+
+[project.scripts]
+review-insights = "review_insights:main"

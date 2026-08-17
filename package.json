@@ -1,0 +1,37 @@
+{
+  "name": "@getreviews-space/review-insights-tool",
+  "version": "1.0.0",
+  "description": "Review Insights Tool analyzes online customer reviews and turns unstructured feedback into useful business insights.",
+  "main": "index.js",
+  "bin": {
+    "review-insights": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "review-insights-tool",
+    "rating-analysis",
+    "review-sentiment",
+    "authenticity-signals",
+    "rating-improvement-calculator",
+    "reputation-trend",
+    "customer-feedback-intelligence",
+    "getreviews-space",
+    "google-reviews",
+    "trustpilot",
+    "yelp",
+    "review-analytics"
+  ],
+  "author": "GetReviews.Space",
+  "license": "MIT",
+  "homepage": "https://getreviews.space",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getreviews-space/review-insights-tool"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Review Insights Tool",
+  "description": "Review Insights Tool analyzes online customer reviews and turns unstructured feedback into useful business insights. Evaluates ratings, review volume, sentiment, recurring topics, and authenticity signals. Includes a rating improvement calculator. Built by GetReviews.Space.",
+  "creators": [
+    {
+      "name": "GetReviews.Space"
+    }
+  ],
+  "keywords": [
+    "Review Insights Tool",
+    "Rating Analysis",
+    "Review Sentiment",
+    "Authenticity Signals",
+    "Rating Improvement Calculator",
+    "Reputation Trend",
+    "Customer Feedback Intelligence",
+    "GetReviews.Space"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/getreviews-space/review-insights-tool",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://getreviews.space",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@getreviews-space/review-insights-tool",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/review-insights-tool",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/getreviews-space/review-insights-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://fr.quora.com/profile/Get-Reviews-Space",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/boost-your-business-with-getreviews-space-mastering-5-star-review-growth/289290110",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/getreviewsspace/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@getreviews_space",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

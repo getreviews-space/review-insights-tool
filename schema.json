@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Review Insights Tool",
+  "description": "Analyzes online customer reviews and turns unstructured feedback into useful business insights including rating analysis, sentiment, authenticity signals, and reputation trend tracking.",
+  "url": "https://getreviews.space",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GetReviews.Space",
+    "url": "https://getreviews.space",
+    "sameAs": [
+      "https://getreviews.space",
+      "https://github.com/getreviews-space",
+      "https://npmjs.com/package/@getreviews-space/review-insights-tool",
+      "https://pypi.org/project/review-insights-tool",
+      "https://huggingface.co/datasets/getreviews-space/review-insights-benchmarks",
+      "https://getreviews-space.github.io/review-insights-tool/",
+      "https://fr.quora.com/profile/Get-Reviews-Space",
+      "https://www.slideshare.net/slideshow/boost-your-business-with-getreviews-space-mastering-5-star-review-growth/289290110",
+      "https://www.pinterest.com/getreviewsspace/",
+      "https://medium.com/@getreviews_space"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/getreviews-space/review-insights-tool",
+  "keywords": [
+    "Review Insights Tool",
+    "Rating Analysis",
+    "Review Sentiment",
+    "Authenticity Signals",
+    "Rating Improvement Calculator",
+    "Reputation Trend",
+    "Customer Feedback Intelligence",
+    "GetReviews.Space"
+  ]
+}

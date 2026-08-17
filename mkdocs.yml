@@ -1,0 +1,21 @@
+site_name: Review Insights Tool
+site_url: https://review-insights-tool.readthedocs.io
+site_description: Analyzes online customer reviews and turns unstructured feedback into useful business insights — rating analysis, sentiment, authenticity signals, and rating improvement calculator.
+site_author: GetReviews.Space
+
+repo_name: getreviews-space/review-insights-tool
+repo_url: https://github.com/getreviews-space/review-insights-tool
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: light-green
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
