@@ -19,13 +19,19 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21984115",
   "related_identifiers": [
     {
       "identifier": "https://github.com/getreviews-space/review-insights-tool",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
+    {
+  "identifier": "https://zenodo.org/records/21984115",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+},
+    
     {
       "identifier": "https://getreviews.space",
       "relation": "isDocumentedBy",
