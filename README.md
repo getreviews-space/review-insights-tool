@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@getreviews-space/review-insights-tool)](https://npmjs.com/package/@getreviews-space/review-insights-tool)
 [![PyPI](https://img.shields.io/pypi/v/review-insights-tool)](https://pypi.org/project/review-insights-tool)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21984115.svg)](https://doi.org/10.5281/zenodo.21984115)
 
 Review Insights Tool is designed to analyze online customer reviews and turn unstructured feedback into useful business insights. It evaluates ratings, review volume, sentiment, recurring topics, and customer comments to identify patterns across a business's review profile. Built by [GetReviews.Space](https://getreviews.space).
 
@@ -120,7 +120,7 @@ Review Insights Tool · Rating Analysis · Review Sentiment · Authenticity Sign
 | NPM | https://npmjs.com/package/@getreviews-space/review-insights-tool |
 | PyPI | https://pypi.org/project/review-insights-tool |
 | Hugging Face | https://huggingface.co/datasets/getreviews-space/review-insights-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21984115 |
 | Docs | https://review-insights-tool.readthedocs.io |
 | Quora | https://fr.quora.com/profile/Get-Reviews-Space |
 | SlideShare | https://www.slideshare.net/slideshow/boost-your-business-with-getreviews-space-mastering-5-star-review-growth/289290110 |
